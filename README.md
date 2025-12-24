@@ -13,7 +13,7 @@
 
 💻 Estudiante autodidacta que comparte sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia.
 
-📫 Contacto: **contacto@jorgereina.es**
+📫 Contacto: **jorgereina.rp@gmail.com**
 <!--Intro end-->
   </p>
 <br>

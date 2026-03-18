@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Jorge Reina 👋</h1>
-<h3 align="center">Ingeniero de Software Full-Stack | Especialista en Next.js, React & TypeScript</h3>
+<h3 align="center">Desarrollador Full-Stack | Especialista en Next.js, React & TypeScript</h3>
 
 <p align="center">
   <em>Construyendo aplicaciones web escalables de alto rendimiento y arquitecturas modernas.</em>
@@ -24,7 +24,7 @@
 Ingeniero Full-Stack enfocado en el ecosistema **React** y **Next.js**. Me especializo en transformar requisitos complejos en productos digitales robustos, priorizando la **optimización del rendimiento (Core Web Vitals)** y la experiencia de usuario.
 
 * 🔭 **Actualmente trabajando en:** Arquitecturas escalables con **Next.js 15 (App Router)** y **React 19**.
-* 🤝 **Valor Diferencial:** Mis 9 años en **Rugby federado** han forjado mi ética de trabajo: disciplina férrea, liderazgo colaborativo y capacidad de entrega bajo presión.
+* 🤝 **Valor Diferencial:** Mis 9 años en **Rugby ** han forjado mi ética de trabajo: disciplina férrea, liderazgo colaborativo y capacidad de entrega bajo presión.
 * 🌱 **Aprendizaje continuo:** Explorando **Tailwind v4** y patrones de **Server Actions**.
 
 ---
